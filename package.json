@@ -1,0 +1,25 @@
+{
+  "name": "grad-assessment-study",
+  "version": "1.0.0",
+  "description": "Grad Assessment Study",
+  "main": "/client/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codesmith-Grad-Assessment-Study-Group/grad-assessment-study.git"
+  },
+  "author": "NYOI4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codesmith-Grad-Assessment-Study-Group/grad-assessment-study/issues"
+  },
+  "homepage": "https://github.com/Codesmith-Grad-Assessment-Study-Group/grad-assessment-study#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "pg": "^8.10.0"
+  }
+}
